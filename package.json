@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d MapAnimation"
+    "deploy": "gh-pages -d MapBuses"
   },
   "keywords": [],
   "author": "",
