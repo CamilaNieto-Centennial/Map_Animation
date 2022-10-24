@@ -1,0 +1,16 @@
+{
+  "name": "MapBuses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d MapAnimation"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://CamilaNieto-Centennial.github.io/bustracker",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
